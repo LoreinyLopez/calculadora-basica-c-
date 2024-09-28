@@ -1,0 +1,14 @@
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadorabasica\bin\Debug\net8.0\Calculadorabasica.exe
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadorabasica\bin\Debug\net8.0\Calculadorabasica.deps.json
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadorabasica\bin\Debug\net8.0\Calculadorabasica.runtimeconfig.json
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadorabasica\bin\Debug\net8.0\Calculadorabasica.dll
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadorabasica\bin\Debug\net8.0\Calculadorabasica.pdb
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadorabasica\obj\Debug\net8.0\Calculadorabasica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadorabasica\obj\Debug\net8.0\Calculadorabasica.AssemblyInfoInputs.cache
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadorabasica\obj\Debug\net8.0\Calculadorabasica.AssemblyInfo.cs
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadorabasica\obj\Debug\net8.0\Calculadorabasica.csproj.CoreCompileInputs.cache
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadorabasica\obj\Debug\net8.0\Calculadorabasica.dll
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadorabasica\obj\Debug\net8.0\refint\Calculadorabasica.dll
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadorabasica\obj\Debug\net8.0\Calculadorabasica.pdb
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadorabasica\obj\Debug\net8.0\Calculadorabasica.genruntimeconfig.cache
+C:\Users\loreimy\Desktop\Ejercicios c#1L\Calculadorabasica\obj\Debug\net8.0\ref\Calculadorabasica.dll
